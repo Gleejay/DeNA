@@ -15,6 +15,8 @@ public class Customer extends Persion {
     @Override
     public void eat() {
         System.out.println("Customer eat");
+
+        //renew 2
     }
 
     public static void main(String[] args) {

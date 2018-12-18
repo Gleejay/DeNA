@@ -13,4 +13,9 @@ public class Man {
 
         //修改3
     }
+
+
+    public static void test() {
+        System.out.println("TEST");
+    }
 }
