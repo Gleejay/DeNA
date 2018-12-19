@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
         <module name="mavendemo" />
         <module name="mvntest" />
         <module name="NBA1" />
@@ -16,6 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="mavendemo" target="1.8" />
       <module name="mvntest" target="1.5" />
       <module name="NBA1" target="1.5" />
@@ -24,6 +26,7 @@
       <module name="NBA4" target="1.5" />
       <module name="NBA5" target="1.7" />
       <module name="NBA6" target="1.7" />
+      <module name="sbdemo" target="1.8" />
       <module name="testdemo" target="1.8" />
       <module name="zzxmavendemo" target="1.5" />
     </bytecodeTargetLevel>

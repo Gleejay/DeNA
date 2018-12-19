@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/DeNA2.iml" filepath="$PROJECT_DIR$/DeNA2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModuleWeb/ModuleWeb.iml" filepath="$PROJECT_DIR$/ModuleWeb/ModuleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleWeb2/ModuleWeb2.iml" filepath="$PROJECT_DIR$/ModuleWeb2/ModuleWeb2.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBA1/NBA1.iml" filepath="$PROJECT_DIR$/NBA1/NBA1.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBA4/NBA4.iml" filepath="$PROJECT_DIR$/NBA4/NBA4.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBA5/NBA5.iml" filepath="$PROJECT_DIR$/NBA5/NBA5.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBA6/NBA6.iml" filepath="$PROJECT_DIR$/NBA6/NBA6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBA3/src/main/main.iml" filepath="$PROJECT_DIR$/NBA3/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvntest/mvntest.iml" filepath="$PROJECT_DIR$/mvntest/mvntest.iml" />
