@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mavendemo" />
         <module name="mvntest" />
+        <module name="NBA1" />
+        <module name="NBA2" />
         <module name="testdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mavendemo" target="1.8" />
       <module name="mvntest" target="1.5" />
+      <module name="NBA1" target="1.5" />
+      <module name="NBA2" target="1.5" />
       <module name="testdemo" target="1.8" />
       <module name="zzxmavendemo" target="1.5" />
     </bytecodeTargetLevel>

@@ -24,6 +24,8 @@
         <option value="$PROJECT_DIR$/mavendemo/pom.xml" />
         <option value="$PROJECT_DIR$/testdemo/pom.xml" />
         <option value="$PROJECT_DIR$/mvntest/pom.xml" />
+        <option value="$PROJECT_DIR$/NBA1/pom.xml" />
+        <option value="$PROJECT_DIR$/NBA2/pom.xml" />
       </list>
     </option>
   </component>
