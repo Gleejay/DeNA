@@ -1,6 +1,7 @@
 package com.gleejay.service;
 
 import com.gleejay.Domain.Persion;
+import com.gleejay.domain.People;
 
 /**
  * @author gleejay
@@ -12,6 +13,9 @@ public class Test {
         testNBA1();
         Persion persion = new Persion(20);
         persion.eat();
+
+        People people = new People(50,"Gleejay");
+        System.out.println(people);
 
         System.out.println("testNBA1()  ");
     }

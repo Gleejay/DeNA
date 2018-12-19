@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NBA3-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NBA3/target/NBA3-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

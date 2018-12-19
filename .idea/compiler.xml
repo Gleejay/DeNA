@@ -9,7 +9,9 @@
         <module name="mavendemo" />
         <module name="mvntest" />
         <module name="NBA1" />
-        <module name="NBA2" />
+        <module name="NBA4" />
+        <module name="NBA5" />
+        <module name="NBA6" />
         <module name="testdemo" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,10 @@
       <module name="mvntest" target="1.5" />
       <module name="NBA1" target="1.5" />
       <module name="NBA2" target="1.5" />
+      <module name="NBA3" target="1.5" />
+      <module name="NBA4" target="1.5" />
+      <module name="NBA5" target="1.7" />
+      <module name="NBA6" target="1.7" />
       <module name="testdemo" target="1.8" />
       <module name="zzxmavendemo" target="1.5" />
     </bytecodeTargetLevel>
